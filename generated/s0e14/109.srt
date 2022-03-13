@@ -1,0 +1,13 @@
+1
+00:00:0.5 --> 00:00:3.46
+FIREMAN 1: We'll see you later.
+FIREMAN 2: Bye. See you later.
+
+2
+00:00:3.67 --> 00:00:5.379
+Thanks. See you.
+
+3
+00:00:5.63 --> 00:00:6.88
+Oh, my God.
+

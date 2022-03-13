@@ -1,0 +1,14 @@
+1
+00:00:0.5 --> 00:00:2.376
+- Well, hello. Welcome to Monica's.
+- Hello.
+
+2
+00:00:2.544 --> 00:00:4.17
+May I take your coat?
+
+3
+00:00:7.674 --> 00:00:9.675
+- Hi, Steve.
+- Hello, Monica.
+

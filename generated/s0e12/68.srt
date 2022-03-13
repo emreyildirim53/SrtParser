@@ -1,0 +1,12 @@
+1
+00:00:0.5 --> 00:00:3.168
+"Hello, sit here. Eat something."
+
+2
+00:00:4.254 --> 00:00:5.754
+You pick one.
+
+3
+00:00:5.922 --> 00:00:7.297
+How about the ladybugs?
+

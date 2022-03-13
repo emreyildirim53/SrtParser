@@ -1,0 +1,12 @@
+1
+00:00:0.5 --> 00:00:2.334
+The monkey, have you seen a monkey?
+
+2
+00:00:3.587 --> 00:00:5.421
+I saw Regis Philbin once.
+
+3
+00:00:6.381 --> 00:00:8.132
+Thank you, Mr. Heckles.
+

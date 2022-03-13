@@ -1,0 +1,13 @@
+1
+00:00:0.5 --> 00:00:2.877
+Hello, greeter girl.
+
+2
+00:00:3.336 --> 00:00:5.963
+- This is Rachel.
+- Yeah, okay.
+
+3
+00:00:6.673 --> 00:00:10.134
+Mm, everything smells so delicious.
+

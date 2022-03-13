@@ -1,0 +1,14 @@
+1
+00:00:0.5 --> 00:00:1.833
+What do you want?
+
+2
+00:00:2.001 --> 00:00:5.253
+Mr. Heckles, our friend lost a monkey.
+Have you seen it?
+
+3
+00:00:5.421 --> 00:00:8.256
+I left a Belgian waffle out here.
+Did you take it?
+

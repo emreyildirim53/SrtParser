@@ -1,0 +1,12 @@
+1
+00:00:0.5 --> 00:00:2.418
+You're going to Minsk.
+
+2
+00:00:2.794 --> 00:00:4.837
+No, I'm not going to Minsk.
+
+3
+00:00:5.005 --> 00:00:6.756
+Oh, you are so going to Minsk.
+

@@ -1,0 +1,13 @@
+1
+00:00:0.5 --> 00:00:2.543
+One might wonder.
+
+2
+00:00:2.836 --> 00:00:5.504
+A glass is on the table.
+There's no coaster.
+
+3
+00:00:5.755 --> 00:00:7.548
+It's a cold drink. It's a hot day.
+

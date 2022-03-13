@@ -1,0 +1,14 @@
+1
+00:00:0.5 --> 00:00:3.085
+This is a great place.
+How long have you lived here?
+
+2
+00:00:3.295 --> 00:00:6.255
+Thanks. I've been here
+about six years.
+
+3
+00:00:6.464 --> 00:00:9.633
+And Rachel moved in a few months ago.
+

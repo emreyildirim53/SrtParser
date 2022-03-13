@@ -1,0 +1,13 @@
+1
+00:00:0.5 --> 00:00:1.875
+Something Goodacre.
+
+2
+00:00:2.126 --> 00:00:3.46
+Hi, Mom, it's Jill.
+
+3
+00:00:3.711 --> 00:00:6.129
+She's right. It's Jill.
+Jill Goodacre.
+
